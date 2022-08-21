@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">Senior Software Engineer, Skilled in Python Development, AWS, and ML Platform</h3>
+
+<h1 align="center">Hi 👋, I'm a Senior Software Enginee </h1>
+<h3 align="center">Skilled in Python Development, AWS, and ML Platform</h3>
 
 - 🔭 I’m currently working on **Python Full Stack Development**
 
-- 🌱 I’m currently learning **AWS**
+- ✨ Contributing to  [https://arrange.space/](https://github.com/arrangement-io)
 
-- 👯 I’m looking to work with **software engineers**
+- 🔥 Interested in Cloud and Software engineering;
 
-- 🤝 I’m looking for help with **new Opportunities**
+- 📆 Looking for contributing to python based open source projects
+
+- ⚙️ I use daily: .py, .js, .yml, .sh
 
 - 👨‍💻 All of my projects are available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
-- 💬 Ask me about **Python**
+- 🌍 I'm mostly active within the Python Community
 
 - 📫 How to reach me **jeff.chiu2@gpmail.org**
 
@@ -27,4 +30,3 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffchiucp&show_icons=true&locale=en" alt="jeffchiucp" /></p>
-
