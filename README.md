@@ -16,9 +16,10 @@
 
 - 🌍 I'm mostly active within the Python Community
 
+- 💬 Ping me about **Django**, **Python**, **RestAPIs**
+
 - 📫 How to reach me **jeff.chiu2@gpmail.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeffchiu2020/](https://www.linkedin.com/in/jeffchiu2020/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+#### Development Stuffs:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffchiucp&show_icons=true&locale=en" alt="jeffchiucp" /></p>
